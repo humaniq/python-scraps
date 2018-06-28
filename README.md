@@ -4,7 +4,7 @@ A collection of Python snippets meant to be copy/pasted into codebases rather th
 
 ## fragile_db
 
-Shuts down the whole app on any DB connection error.
+Shuts down the whole app on any DB connection or missing table error.
 
 ## logging
 
